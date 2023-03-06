@@ -10,18 +10,20 @@
 }
 .wrapper{
     background:blue;
+    flex-direction: row;
+    display: flex;
 }
 .menu{
     background: green;
-width: 30%;
-float: left
+    width: 30%;
+
 }
 .content{
     background: aqua;
     width: 70%;
-    float: left
+
 }
 .footer{
     background: pink;
-    clear:both
+ 
 }
